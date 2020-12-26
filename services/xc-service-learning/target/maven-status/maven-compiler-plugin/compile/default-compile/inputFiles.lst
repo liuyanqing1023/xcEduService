@@ -1,0 +1,8 @@
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcTaskHisRepository.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcLearningCourseRepository.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/client/CourseSearchClient.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/service/LearningService.java
+/Users/liuyanqing/work/xcEduService/services/xc-service-learning/src/main/java/com/xuecheng/learning/controller/CourseLearningController.java

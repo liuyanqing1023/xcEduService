@@ -4,6 +4,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/xc-config/pom.xml" />
+        <option value="$PROJECT_DIR$/services/xc-service-manage-cms-client/pom.xml" />
+        <option value="$PROJECT_DIR$/services/xc-service-manage-course/pom.xml" />
+        <option value="$PROJECT_DIR$/services/xc-service-manage-media/pom.xml" />
+        <option value="$PROJECT_DIR$/services/xc-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/test/test-fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/test/test-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/test/test-rabbit/pom.xml" />
       </list>
     </option>
   </component>
